@@ -2,4 +2,5 @@
 Watch Face web Html5
 
 Eventos en Javascript
+
 -Evento cambio de imagen javascript
